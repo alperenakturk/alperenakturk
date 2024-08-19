@@ -10,3 +10,6 @@
 
   ## My Social Accounts 🌐
 www.linkedin.com/in/ahmet-alperen-aktürk-
+
+![image](https://github.com/user-attachments/assets/f2b2ee4a-4b9d-45ee-9c49-ddc5fd82f5c9)
+

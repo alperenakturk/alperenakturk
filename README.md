@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Alperen</h1>
 <h3 align="center">A software developer studying MIS at Kadir Has University.</h3>
 
+-👨 Hello, my name is Alperen, and I am an undergraduate student in the Department of Management Information Systems at Kadir Has University. I am taking a comprehensive Python Course on Udemy to improve my Python skills, contribute to my courses, and discover which software area I will focus on.
+
 - 🔭 I’m currently working on [xyz](https://github.com/alperenakturk/PracticeProject5-xyz)
 
 - 📫 How to reach me **ahmetalperenakturk@gmail.com**

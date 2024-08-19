@@ -9,5 +9,4 @@
 - 📫 How to reach me: ahmetalperenakturk@gmail.com
 
   ## My Social Accounts 🌐
-https://www.linkedin.com/in/ahmet-alperen-akt%C3%BCrk-/
-
+www.linkedin.com/in/ahmet-alperen-aktürk-

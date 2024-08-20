@@ -3,7 +3,7 @@
 
 - 👨 Hello, my name is Alperen, and I am an undergraduate student in the Department of Management Information Systems at Kadir Has University. I am taking a comprehensive Python Course on Udemy to improve my Python skills, contribute to my courses, and discover which software area I will focus on.
 
-- 🔭 I’m currently working on [xyz](https://github.com/alperenakturk/PracticeProject5-xyz)
+- 🔭 I’m currently working on [Pokemon API Application with tkinter](https://github.com/alperenakturk/PracticeProject5-PokemonAPIApplicationWithTkinter)
 
 - 📫 How to reach me **ahmetalperenakturk@gmail.com**
 

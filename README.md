@@ -1,23 +1,43 @@
-<h1 align="center">Hi 👋, I'm Alperen</h1>
-<h3 align="center">A software developer studying MIS at Kadir Has University.</h3>
+<h2 align="left">Hi 👋! I'm Alperen</h2>
 
-- 👨 Hello, my name is Alperen, and I am an undergraduate student in the Department of Management Information Systems at Kadir Has University. I am taking a comprehensive Python Course on Udemy to improve my Python skills, contribute to my courses, and discover which software area I will focus on.
+###
 
-- 🔭 I’m currently working on [Pokemon API Application with tkinter](https://github.com/alperenakturk/PracticeProject5-PokemonAPIApplicationWithTkinter)
+<p align="left">👨 Hello, my name is Alperen, and I am an undergraduate student in the Department of Management Information Systems at Kadir Has University. I am taking a comprehensive Python Course on Udemy to improve my Python skills, contribute to my courses, and discover which software area I will focus on.<br><br>🔭 I’m currently working on Pokemon API Application with tkinter<br><br>📫 How to reach me ahmetalperenakturk@gmail.com<br><br>🌱 I’m currently learning Python on Udemy<br><br>💬 Ask me about anything you want.</p>
 
-- 📫 How to reach me **ahmetalperenakturk@gmail.com**
+###
 
-- 🌱 I’m currently learning [Python on Udemy](https://www.udemy.com/course/python-100-gunluk-yazilim-kampi/?couponCode=KEEPLEARNING)
+<div align="center">
+  <img height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGVpOGdneXc2OHRnMTFtbHlsa2g1NWJ6MmZ2aGl0ZjV4NHlqaDFvdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
+</div>
 
-- 💬 Ask me about **anything you want.**
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ahmet-alperen-aktürk-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmet-alperen-aktürk-/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/26874343" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="26874343" height="30" width="40" /></a>
-<a href="https://kaggle.com/alperenakturk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="alperenakturk" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alperenakturk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alperenakturk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original.svg" height="30" alt="processing logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/alperenakturk/alperenakturk/output/snake.svg" alt="Snake animation" />
+
+###

@@ -1,14 +1,14 @@
 <h2 align="left">Hi 👋! I'm Alperen</h2>
 
-###
-
-<p align="left">👨 Hello, my name is Alperen, and I am an undergraduate student in the Department of Management Information Systems at Kadir Has University. I am taking a comprehensive Python Course on Udemy to improve my Python skills, contribute to my courses, and discover which software area I will focus on.<br><br>🔭 I’m currently working on Pokemon API Application with tkinter<br><br>📫 How to reach me ahmetalperenakturk@gmail.com<br><br>🌱 I’m currently learning Python on Udemy<br><br>💬 Ask me about anything you want.</p>
-
-###
-
-<div align="center">
-  <img height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGVpOGdneXc2OHRnMTFtbHlsa2g1NWJ6MmZ2aGl0ZjV4NHlqaDFvdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
-</div>
+<p align="left">
+👨 I'm a 4th-year Management Information Systems student at Kadir Has University (Istanbul), minoring in Digital Game Design. My focus is on data science and machine learning, with software development and cybersecurity as secondary interests.<br><br>
+🔬 Currently working on an EV charging station location optimization project and previously worked on anomaly detection for critical infrastructure cybersecurity, both supervised by a research assistant at KHAS.<br><br>
+🍅 Building a Pomodoro productivity web app (JavaScript / HTML / CSS) — check it out below.<br><br>
+🌍 Completed an Erasmus+ exchange at Hochschule Ravensburg-Weingarten, Germany.<br><br>
+📚 Currently finishing the Andrew Ng Machine Learning Specialization (Stanford / Coursera).<br><br>
+📫 Reach me at ahmetalperenakturk@gmail.com<br><br>
+💬 Ask me about data science, ML, or my ongoing internship search!
+</p>
 
 ###
 
@@ -17,18 +17,32 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alperenakturk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-<h3 align="left">Languages and Tools:</h3>
+### 📌 Pinned / Featured Project
+
+**[Pomodoro App](https://github.com/alperenakturk/pomodoro-app)** — A productivity timer web app built with JavaScript, HTML, and CSS.
+
+### 🛠️ Languages and Tools
+
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" title="Python" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original.svg" height="30" alt="processing logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="sql logo" title="SQL" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="matlab logo" title="MATLAB" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" title="JavaScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" title="HTML5" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" title="CSS3" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" title="Git" />
 </div>
 
-###
-<h3 align="left">Connect with me:</h3>
+### 🔗 Connect with me
+
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
+  <a href="https://www.linkedin.com/in/ahmet-alperen-akt%C3%BCrk" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
 </div>
-

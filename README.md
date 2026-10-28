@@ -2,8 +2,8 @@
 
 <p align="left">
 4th-year Management Information Systems student at Kadir Has University (Istanbul), minoring in Digital Game Design.
-I build products people actually use, and I'm focused on data science and machine learning, with software development and cybersecurity close behind.<br><br>
-🔎 <b>Looking for an internship</b>: data science, ML or software development.
+I build web apps and browser extensions that people actually use, moving fast with AI-assisted development (vibe coding). Alongside that, I'm focused on data science and machine learning.<br><br>
+🔎 <b>Looking for an internship</b>: data science, ML, software or app development (including AI-assisted / vibe coding).
 </p>
 
 ---
@@ -13,11 +13,15 @@ I build products people actually use, and I'm focused on data science and machin
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="assets/screen-with-me.png" alt="ScreenWithMe watch room with video, reactions and chat" />
+      <a href="https://screen-with-me.swm-server.workers.dev">
+        <img src="assets/screen-with-me.png" alt="ScreenWithMe watch room with video, reactions and chat" />
+      </a>
       <h3>▶ ScreenWithMe</h3>
       <p>Watch any video together, in perfect sync. One link, no accounts: play, pause and seek happen for everyone, measured 30–100 ms apart. Chat, reactions, voice &amp; video chat, screen sharing, a shared queue and in-room games. Works on YouTube and, with the Chrome extension, on almost any site.</p>
       <p><b>TypeScript · Cloudflare Workers + Durable Objects · WebRTC · Chrome Extension (MV3)</b></p>
-      <p>🚧 <b>Public launch coming soon</b></p>
+      <p>
+        🔗 <a href="https://screen-with-me.swm-server.workers.dev"><b>Live site</b></a>
+      </p>
     </td>
     <td width="50%" valign="top">
       <a href="https://alperenakturk.github.io/pomodoro-app/">
@@ -40,7 +44,6 @@ I build products people actually use, and I'm focused on data science and machin
 ### 🔬 Research
 
 - **EV charging station location optimization**: finding where new charging stations should go *(ongoing, supervised by a research assistant at KHAS)*
-- **Anomaly detection for critical infrastructure cybersecurity**: detecting attacks on industrial control systems *(KHAS)*
 
 ### 🎓 Education
 

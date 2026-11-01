@@ -49,7 +49,6 @@ I build web apps and browser extensions that people actually use, moving fast wi
 
 - **Kadir Has University**, Management Information Systems (minor: Digital Game Design)
 - **Erasmus+** exchange at Hochschule Ravensburg-Weingarten, Germany
-- **Machine Learning Specialization**, Andrew Ng (Stanford / Coursera)
 
 ### 🛠️ Languages and Tools
 

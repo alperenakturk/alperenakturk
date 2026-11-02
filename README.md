@@ -2,8 +2,8 @@
 
 <p align="left">
 4th-year Management Information Systems student at Kadir Has University (Istanbul), minoring in Digital Game Design.
-I build web apps and browser extensions that people actually use, moving fast with AI-assisted development (vibe coding). Alongside that, I'm focused on data science and machine learning.<br><br>
-🔎 <b>Looking for an internship</b>: data science, ML, software or app development (including AI-assisted / vibe coding).
+I build web apps and browser extensions that people actually use, moving fast with AI-assisted development (vibe coding). I'm also interested in data science and machine learning.<br><br>
+🔎 <b>Looking for an internship</b>: app and software development, or data science and ML.
 </p>
 
 ---
@@ -19,6 +19,7 @@ I build web apps and browser extensions that people actually use, moving fast wi
       <h3>▶ ScreenWithMe</h3>
       <p>Watch any video together, in perfect sync. One link, no accounts: play, pause and seek happen for everyone, measured 30–100 ms apart. Chat, reactions, voice &amp; video chat, screen sharing, a shared queue and in-room games. Works on YouTube and, with the Chrome extension, on almost any site.</p>
       <p><b>TypeScript · Cloudflare Workers + Durable Objects · WebRTC · Chrome Extension (MV3)</b></p>
+      <p>✅ 157 unit tests · end-to-end tests · 90 real-Chrome checks · tested and deployed automatically on every push</p>
       <p>
         🔗 <a href="https://screen-with-me.swm-server.workers.dev"><b>Live site</b></a>
       </p>
@@ -30,6 +31,7 @@ I build web apps and browser extensions that people actually use, moving fast wi
       <h3>🍅 Pomodoro Technique</h3>
       <p>The whole Pomodoro method, not just a 25-minute timer: task planning, estimates vs. reality, interruption logging and reports with a 13-week activity heatmap. Works offline as a guest, and syncs across devices when you sign in. Fullscreen focus mode, themes, Turkish &amp; English.</p>
       <p><b>React · Vite · Tailwind CSS · Supabase</b></p>
+      <p>✅ 300+ tests · lint and tests must pass before every automatic deploy</p>
       <p>
         🔗 <a href="https://alperenakturk.github.io/pomodoro-app/"><b>Live site</b></a>
       </p>

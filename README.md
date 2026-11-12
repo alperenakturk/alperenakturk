@@ -3,7 +3,7 @@
 <p align="left">
 4th-year Management Information Systems student at Kadir Has University (Istanbul), minoring in Digital Game Design.
 I build web apps and browser extensions that people actually use, moving fast with AI-assisted development (vibe coding). I'm also interested in data science and machine learning.<br><br>
-🔎 <b>Looking for an internship</b>: app and software development, or data science and ML.
+💼 <b>Currently interning at Tacev</b>, where we're building the TacevGO Android app. Interested in app and software development, data science and ML.
 </p>
 
 ---
@@ -16,10 +16,10 @@ I build web apps and browser extensions that people actually use, moving fast wi
       <a href="https://screen-with-me.swm-server.workers.dev">
         <img src="assets/screen-with-me.png" alt="ScreenWithMe watch room with video, reactions and chat" />
       </a>
-      <h3>▶ ScreenWithMe</h3>
+      <h3>▶ Sidelit <sub>(formerly ScreenWithMe)</sub></h3>
       <p>Watch any video together, in perfect sync. One link, no accounts: play, pause and seek happen for everyone, measured 30–100 ms apart. Chat, reactions, voice &amp; video chat, screen sharing, a shared queue and in-room games. Works on YouTube and, with the Chrome extension, on almost any site.</p>
       <p><b>TypeScript · Cloudflare Workers + Durable Objects · WebRTC · Chrome Extension (MV3)</b></p>
-      <p>✅ 157 unit tests · end-to-end tests · 90 real-Chrome checks · tested and deployed automatically on every push</p>
+      <p>✅ 410 unit tests · end-to-end tests against the live server · real-Chrome extension, voice and phone checks · tested and deployed automatically on every push</p>
       <p>
         🔗 <a href="https://screen-with-me.swm-server.workers.dev"><b>Live site</b></a>
       </p>
@@ -45,13 +45,14 @@ I build web apps and browser extensions that people actually use, moving fast wi
 
 ### 🔬 Research
 
-- **EV charging station location optimization**: finding where new charging stations should go *(ongoing, supervised by a research assistant at KHAS)*
+- **EV charging station usage in Beylikdüzü, Istanbul** (graduation project): measuring how much public charging stations are used and how that relates to their surroundings (points of interest, roads, public transport), with GIS and machine learning. TÜBİTAK 2209-A application submitted in November 2026. *(ongoing)*
+- **Cyber-security for critical infrastructure** (Student Researcher, KHAS, Mar–Sep 2025): simulated infrastructure devices (battery, inverter, meters, SCADA) for anomaly-detection research; evaluated the HELICS co-simulation platform.
 
 ### 🎓 Education
 
-- **Kadir Has University**, Management Information Systems (minor: Digital Game Design)
-- **Erasmus+** exchange at Hochschule Ravensburg-Weingarten, Germany
-- **Machine Learning Specialization**, Andrew Ng (Stanford / Coursera)
+- **Kadir Has University**, Management Information Systems, 2022–2027 (minor: Digital Game Design)
+- **Erasmus+** exchange at Hochschule Ravensburg-Weingarten, Germany (Fall 2025)
+- **Supervised Machine Learning: Regression and Classification**, Andrew Ng (Stanford / Coursera)
 
 ### 🛠️ Languages and Tools
 
